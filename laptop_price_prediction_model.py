@@ -3,7 +3,7 @@ import numpy as np
 import re
 
 # 1. Load the cleaned dataset
-df = pd.read_excel('laptops.xlsx')
+df = pd.read_excel('dataset_name')
 
 # 2. Define the exchange rate (1 USD to MYR)
 exchange_rate = 3.9525
